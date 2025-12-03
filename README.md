@@ -10,13 +10,6 @@
 <div id="results"></div>
 
 <script>
-// ❗ СЮДИ ВСТАВЛЯТИ СЛОВНИК
-const dictionary = {
-"ґазда": "Господар, власник двору.",
-"барило": "Дерев'яна посудина, бочонок.",
-"куражитися": "Гордувати, хизуватися.",
-// Додавай свої слова тут
-};
 
 function searchWord() {
 const query = document.getElementById("search").value.trim().toLowerCase();
