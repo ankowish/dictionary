@@ -1,19 +1,5 @@
 # dictionary
-My first repository on GitHub
 <!DOCTYPE html>
-font-size: 16px;
-border: 1px solid #ccc;
-border-radius: 5px;
-}
-.entry {
-background: #fff;
-padding: 15px;
-border-radius: 8px;
-margin-bottom: 10px;
-box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-}
-</style>
-</head>
 <body>
 <h1>Словник середньонаддніпрянських говірок</h1>
 
