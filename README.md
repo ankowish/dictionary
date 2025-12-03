@@ -3,12 +3,6 @@
 <body>
 <h1>Словник середньонаддніпрянських говірок</h1>
 
-<div class="search-box">
-<input type="text" id="search" placeholder="Введіть слово..." oninput="searchWord()" />
-</div>
-
-<div id="results"></div>
-
 <script>
 
 function searchWord() {
